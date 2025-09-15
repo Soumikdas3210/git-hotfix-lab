@@ -1,4 +1,4 @@
 # git-hotfix-lab
 
 
-Fixing implimentation word.
+Fixing implementation word.
